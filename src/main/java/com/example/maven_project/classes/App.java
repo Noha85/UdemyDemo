@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "This is a Hello World Test !" );
         System.out.println( "This is a Hello World Test2 !" );
+        System.out.println( "Test WorldCup 2026 !" );
     }
 }
